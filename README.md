@@ -1,3 +1,7 @@
+Here's the updated version of your repository description with the new **theme-toggler** project added:
+
+---
+
 # React.js Learning Projects Repository
 
 ## Overview
@@ -23,6 +27,12 @@ This repository contains projects created during my React.js learning journey. E
    - Description: A React app that converts currencies using real-time exchange rates fetched from an API.
    - Path: `projects/currency-converter`
    - Concepts Covered: API integration, state management, form handling.
+
+4. **theme-toggler**
+
+   - Description: A React app that toggles between light and dark themes on the webpage using state management.
+   - Path: `projects/theme-toggler`
+   - Concepts Covered: State management, CSS classes, dynamic styling.
 
 ## Setup Instructions
 
@@ -61,6 +71,10 @@ repository-root
 │   │   ├── public
 │   │   ├── package.json
 │   ├── currency-converter
+│   │   ├── src
+│   │   ├── public
+│   │   ├── package.json
+│   ├── theme-toggler
 │   │   ├── src
 │   │   ├── public
 │   │   ├── package.json
