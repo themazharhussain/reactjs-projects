@@ -1,7 +1,3 @@
-Here's the updated version of your repository description with the new **theme-toggler** project added:
-
----
-
 # React.js Learning Projects Repository
 
 ## Overview
@@ -13,26 +9,32 @@ This repository contains projects created during my React.js learning journey. E
 1. **color-changer**
 
    - Description: A simple React app that allows users to change the background color of the page dynamically.
-   - Path: `projects/color-changer`
+   - Path: projects/color-changer
    - Concepts Covered: State management, event handling.
 
 2. **password-generator**
 
    - Description: A React app that generates random secure passwords based on user preferences (length, inclusion of special characters, etc.).
-   - Path: `projects/password-generator`
+   - Path: projects/password-generator
    - Concepts Covered: Form handling, state management.
 
 3. **currency-converter**
 
    - Description: A React app that converts currencies using real-time exchange rates fetched from an API.
-   - Path: `projects/currency-converter`
+   - Path: projects/currency-converter
    - Concepts Covered: API integration, state management, form handling.
 
 4. **theme-toggler**
 
    - Description: A React app that toggles between light and dark themes on the webpage using state management.
-   - Path: `projects/theme-toggler`
+   - Path: projects/theme-toggler
    - Concepts Covered: State management, CSS classes, dynamic styling.
+
+5. **todo-localstorage-context**
+
+   - Description: A React app that lets users manage a to-do list with persistence using localStorage and global state management via React Context API.
+   - Path: projects/todo-localstorage-context
+   - Concepts Covered: Context API, localStorage, state management, and CRUD operations.
 
 ## Setup Instructions
 
@@ -75,6 +77,10 @@ repository-root
 │   │   ├── public
 │   │   ├── package.json
 │   ├── theme-toggler
+│   │   ├── src
+│   │   ├── public
+│   │   ├── package.json
+│   ├── todo-localstorage-context
 │   │   ├── src
 │   │   ├── public
 │   │   ├── package.json
