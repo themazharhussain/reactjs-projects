@@ -36,6 +36,12 @@ This repository contains projects created during my React.js learning journey. E
    - Path: projects/todo-localstorage-context
    - Concepts Covered: Context API, localStorage, state management, and CRUD operations.
 
+6. **todo-redux-toolkit**
+
+   - Description: A to-do app built with Redux Toolkit for state management.
+   - Path: projects/todo-redux-toolkit
+   - Concepts Covered: Redux Toolkit, state management, CRUD operations, dynamic styling.
+
 ## Setup Instructions
 
 Clone the repository:
@@ -58,34 +64,6 @@ npm start
 ```
 
 The app will be available at `http://localhost:3000`.
-
-## Folder Structure
-
-```
-repository-root
-├── projects
-│   ├── color-changer
-│   │   ├── src
-│   │   ├── public
-│   │   ├── package.json
-│   ├── password-generator
-│   │   ├── src
-│   │   ├── public
-│   │   ├── package.json
-│   ├── currency-converter
-│   │   ├── src
-│   │   ├── public
-│   │   ├── package.json
-│   ├── theme-toggler
-│   │   ├── src
-│   │   ├── public
-│   │   ├── package.json
-│   ├── todo-localstorage-context
-│   │   ├── src
-│   │   ├── public
-│   │   ├── package.json
-├── README.md
-```
 
 ## Contributing
 
